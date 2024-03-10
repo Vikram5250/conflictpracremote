@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+Hey name is "Harry"
+=======
+Hey name is "Kane"
+>>>>>>> Kane
